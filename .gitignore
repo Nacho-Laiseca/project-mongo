@@ -1,3 +1,5 @@
 # Files to be ignore
 
 .env
+jupters/
+.DS_Store
